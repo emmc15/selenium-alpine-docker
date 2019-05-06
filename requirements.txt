@@ -1,0 +1,8 @@
+beautifulsoup4
+regex
+selenium
+pyvirtualdisplay
+
+
+
+
